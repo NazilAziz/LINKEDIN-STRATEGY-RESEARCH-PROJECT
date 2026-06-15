@@ -36,8 +36,4 @@ Murray is selected for **volume content ops and B2B-native entertainment** — h
 - Analyze tone balance: professional but not corporate — useful for SaaS employer brand.
 - Relevant for: marketing teams building media properties alongside product marketing.
 
-## Collection checklist
 
-- [ ] Save high-engagement post formats to `research/linkedin-posts/`
-- [ ] Transcribe podcast episodes on LinkedIn/social strategy
-- [ ] Document media-to-LinkedIn repurposing workflow
